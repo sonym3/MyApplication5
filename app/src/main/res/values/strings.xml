@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="link">
+        <item>http://google.com</item>
+        <item>http://yahoo.com</item>
+        <item>http://youtube.com</item>
+        <item>http://amazon.ca</item>
+    </string-array>
+</resources>
